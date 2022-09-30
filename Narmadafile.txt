@@ -1,1 +1,1 @@
-This is my file which i have to commit first.This is modyfying
+this is my second file.This is my file which i have to commit first.This is 
